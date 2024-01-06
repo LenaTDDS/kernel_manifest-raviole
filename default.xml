@@ -1,0 +1,6 @@
+<manifest>
+    <remote  name="github"
+        fetch="https://github.com/"
+    />
+    <project name="opensourcefreak/FreakyKernel-raviole" path="private/gs-google" remote="github" revision="Tiramisu-5.10"/>
+</manifest>
