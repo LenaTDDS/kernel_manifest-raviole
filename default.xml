@@ -9,7 +9,7 @@
   <remote name="github"
           fetch="https://github.com/opensourcefreak" />
 
-  <project path="aosp" name="android_kernel_common" groups="partner" remote="github" revision="android13-5.10"/>
+  <project path="aosp" name="FreakyKernel-raviole" groups="partner" remote="github" revision="android13-5.10"/>
   <project path="private/gs-google" name="kernel/gs" groups="partner">
     <linkfile dest="build.config" src="build.config.slider"/>
     <linkfile dest="build_slider.sh" src="build_slider.sh"/>
